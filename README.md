@@ -3,12 +3,12 @@
 
 
 
-##Overview
- 190918
-
+## Overview
+### 190918
 ・jquery选择器 # 是按id来查找  
+・input type = checkbox可以增加checked option来决定checkbox的初期显示状态  
 ・web.php中Route::resource写法相关 https://www.jianshu.com/p/16ce6ca584e2
-
+ 优点：可以简化代码复杂性，提高易读性  
 
 
 
